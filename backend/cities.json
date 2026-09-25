@@ -1,0 +1,14 @@
+[
+  { "CityCode": 1248991, "CityName": "Colombo", "Country": "LK" },
+  { "CityCode": 1247289, "CityName": "Kandy", "Country": "LK" },
+  { "CityCode": 1244926, "CityName": "Galle", "Country": "LK" },
+  { "CityCode": 2643743, "CityName": "London", "Country": "GB" },
+  { "CityCode": 5128581, "CityName": "New York", "Country": "US" },
+  { "CityCode": 1850147, "CityName": "Tokyo", "Country": "JP" },
+  { "CityCode": 2988507, "CityName": "Paris", "Country": "FR" },
+  { "CityCode": 2147714, "CityName": "Sydney", "Country": "AU" },
+  { "CityCode": 292223,  "CityName": "Dubai", "Country": "AE" },
+  { "CityCode": 1880252, "CityName": "Singapore", "Country": "SG" },
+  { "CityCode": 1275339, "CityName": "Mumbai", "Country": "IN" },
+  { "CityCode": 2950159, "CityName": "Berlin", "Country": "DE" }
+]
